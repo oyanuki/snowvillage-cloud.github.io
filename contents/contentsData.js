@@ -12,17 +12,6 @@
 
 const contentsData = [
   {
-    type: "youtube",
-    title: "SnowVillage 公式 YouTube チャンネル",
-    owner: "SnowVillage",
-    thumbnail: "../images/contents/snowvillage.png",
-    url: "https://www.youtube.com/channel/UC-FKvkAWBegvxZF4jkP7sLA",
-    summary:
-      "SnowVillage が運営する公式 YouTube チャンネルです。",
-    communityNote:
-      "ライブ配信限定イベントやオンサイトイベントとのハイブリッド配信、動画学習コンテンツなど。すべてはここから始まった！",
-  },
-  {
     type: "series",
     title: "Frosty Friday Live Challenge",
     owner: "#FrostyFriday",
@@ -35,6 +24,17 @@ const contentsData = [
   },
   {
     type: "series",
+    title: "データマネジメント入門講座",
+    owner: "#data-management",
+    thumbnail: "../images/contents/data-management-firststep.png",
+    url: "https://data-management.snowvillage.cloud/",
+    summary:
+      "ゼロからでも体系的にデータマネジメントを学べる入門講座です。データ基盤の設計・運用や組織運営に携わるすべての方を歓迎！",
+    communityNote:
+      "専門用語が多く、単一の正解がないことで学習のハードルが高いデータマネジメントを易しく紐解きます。リアルタイム視聴やディスカッションへの参加もおすすめ！",
+  },
+  {
+    type: "series",
     title: "25 Days of Streamlit",
     owner: "#Streamlit",
     thumbnail: "../images/contents/25days-of-streamlit.png",
@@ -43,5 +43,16 @@ const contentsData = [
       "Streamlit と Snowflake を題材にしたハンズオンコンテンツ。1日ごとに小さな実装テーマを積み上げてアプリを完成させましょう！",
     communityNote:
       "2024年 Advent Calender 企画！ 分析アプリ開発の入門に最適なコミュニティ発の連載企画です。",
+  },
+  {
+    type: "youtube",
+    title: "SnowVillage 公式 YouTube チャンネル",
+    owner: "SnowVillage",
+    thumbnail: "../images/contents/snowvillage.png",
+    url: "https://www.youtube.com/channel/UC-FKvkAWBegvxZF4jkP7sLA",
+    summary:
+      "SnowVillage が運営する公式 YouTube チャンネルです。",
+    communityNote:
+      "ライブ配信限定イベントやオンサイトイベントとのハイブリッド配信、動画学習コンテンツなど。すべてはここから始まった！",
   },
 ];
