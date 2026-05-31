@@ -92,6 +92,14 @@
       .type-icon-subgroup::before { content: "👥 "; }
       .type-icon-series::before { content: "🔁 "; }
       .type-icon-doc::before { content: "📚 "; }
+
+      /* PC では常に3列固定。最終行に1〜2枚しかない場合も左詰めで残り列は空きスペースになる */
+      @media (min-width: 901px) {
+        #contents-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      }
+      @media (min-width: 600px) and (max-width: 900px) {
+        #contents-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      }
     </style>
   </head>
   <body>
