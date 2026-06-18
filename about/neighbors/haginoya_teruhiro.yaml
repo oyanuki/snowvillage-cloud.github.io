@@ -1,0 +1,28 @@
+- name: Neighbor
+  affiliation: SnowVillage
+  photo: ../../images/neighbors/user_name.png
+  xUrl: "https://x.com/Snowflake"
+  linkedInUrl: "https://www.linkedin.com/in/XXXXX"
+
+- name: 萩野谷 旭洋
+  affiliation: インフォテック株式会社
+  photo: ../../images/neighbors/haginoya_teruhiro.png
+  xUrl: "https://x.com/_hgny_s67?s=11"
+
+
+#  「Linkdin」のアカウントのみあるケース
+# - name: データ ハナコ
+#   affiliation: Data Engineering Inc.
+#   photo: ../../images/neighbors/data_hanako.png
+#   linkedInUrl: "https://www.linkedin.com/in/XXXXX"
+
+#  「X」のアカウントのみあるケース
+# - name: スノー ジョン
+#   affiliation: フリーランス
+#   photo: ../../images/neighbors/snow_john.png
+#   xUrl: "https://x.com/Snowflake"
+
+#   どちらのアカウントもないケース
+# - name: 雪
+#   affiliation: 学生
+#   photo: ../../images/neighbors/yuki.png
