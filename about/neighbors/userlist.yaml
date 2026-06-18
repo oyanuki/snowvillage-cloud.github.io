@@ -4,6 +4,11 @@
   xUrl: "https://x.com/Snowflake"
   linkedInUrl: "https://www.linkedin.com/in/XXXXX"
 
+- name: Sate Katsuaki
+  affiliation: --
+  photo: ../../images/neighbors/sate_katsuaki.png
+  xUrl: "https://x.com/katsu_dailylake?s=11"
+
 - name: 安倍 航太
   affiliation: 株式会社BeeX
   photo: ../../images/neighbors/abe_kota.png
@@ -20,6 +25,7 @@
   photo: ../../images/neighbors/kayamamoto.png
   xUrl: "https://x.com/kayamamoto_"
   linkedInUrl: "https://www.linkedin.com/in/katsuaki-yamamoto-2b3692329"
+
 
 
 #  「Linkdin」のアカウントのみあるケース
