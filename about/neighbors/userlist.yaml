@@ -4,6 +4,9 @@
   xUrl: "https://x.com/Snowflake"
   linkedInUrl: "https://www.linkedin.com/in/XXXXX"
 
+- name: 尾上 大介
+  photo: ../../images/neighbors/daisuke_onoe.png
+  xUrl: "https://x.com/wonohe"
 
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
